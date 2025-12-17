@@ -46,5 +46,6 @@ The project combines **classification models** (Logistic Regression, Random Fore
 
 ## How to Run the Project
 
-### 1️⃣ Environment Setup
+### Environment Setup
 Recommended: **Anaconda**
+Hit Shift + Enter and run the cells from first to last. Be sure the final.csv file is properly imported 
